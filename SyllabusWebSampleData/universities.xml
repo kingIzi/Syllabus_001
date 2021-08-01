@@ -1,0 +1,435 @@
+<?xml version="1.0" ?>
+<root>
+	<item type="dict">
+		<rank type="str">1</rank>
+		<french_name type="str">Université de Kinshasa</french_name>
+		<location type="str">Kinshasa</location>
+		<faculties type="list">
+			<item type="str">Faculty of Agronomy </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Medicine and Dentistry </item>
+			<item type="str"> Faculty of Pharmacy </item>
+			<item type="str"> Polytechnic </item>
+			<item type="str"> Faculty of Science</item>
+		</faculties>
+		<postal_code type="str">Boîte Postale 125</postal_code>
+		<telephone type="str"> +243 (89) 892 0507</telephone>
+		<description type="str">Established in 1954,  Université de Kinshasa (University of Kinshasa) is a non-profit public higher-education institution located in the large metropolis of Kinshasa (population range of over 5,000,000 inhabitants).   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Kinshasa (UNIKIN) is a large (uniRank enrollment range: 25,000-29,999 students) coeducational Congolese higher education institution. Université de Kinshasa (UNIKIN) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UNIKIN also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">University of Kinshasa</name>
+		<acronym type="str">UNIKIN</acronym>
+		<founded type="str">1954</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">10</rank>
+		<french_name type="str">Université de l'Uélé</french_name>
+		<location type="str">Isiro</location>
+		<faculties type="list">
+			<item type="str">Faculty of Agronomy </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Medicine and Pharmacy </item>
+			<item type="str"> Faculty of Natural Sciences </item>
+			<item type="str"> Faculty of Religious Sciences </item>
+			<item type="str"> Faculty of Social, Political and Administrative Sciences</item>
+		</faculties>
+		<postal_code type="str">S.U. 91 Avenue de Langhes</postal_code>
+		<telephone type="str"> +243 (81) 814 0679</telephone>
+		<description type="str">Founded in 1998,  Université de l'Uélé (University of Uélé) is a non-profit public higher-education institution located in the suburban setting of the medium city of Isiro (population range of 250,000-499,999 inhabitants), Haut-Uele.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de l'Uélé (UNIUELE) is a very small (uniRank enrollment range: 250-499 students) coeducational Congolese higher education institution formally affiliated with the Christian-Catholic religion. Université de l'Uélé (UNIUELE) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 22 years old Congolese higher-education institution has a selective admission policy based on students' past academic record and grades.  The admission rate range is 40-50% making this Congolese higher education organization a averagely selective institution.  UNIUELE also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">University of Uélé</name>
+		<acronym type="str">UNIUELE</acronym>
+		<founded type="str">1998</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">11</rank>
+		<french_name type="str">Université Pedagogique Nationale</french_name>
+		<location type="str">Kinshasa</location>
+		<faculties type="null"/>
+		<postal_code type="str">Route de Matadi/Avenue de la Libération, Quartier Binza</postal_code>
+		<telephone type="str"> +243 015131815</telephone>
+		<description type="str">Established in 1961,  Université Pedagogique Nationale (National Pedagogy University) is a non-profit public higher-education institution located in the large metropolis of Kinshasa (population range of over 5,000,000 inhabitants).   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Pedagogique Nationale (UPN) is a coeducational Congolese higher education institution. Université Pedagogique Nationale (UPN) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UPN also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">National Pedagogy University</name>
+		<acronym type="str">UPN</acronym>
+		<founded type="str">1961</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">12</rank>
+		<french_name type="str">Université Libre des Pays des Grands Lacs</french_name>
+		<location type="str">Goma ...</location>
+		<faculties type="list">
+			<item type="str">Faculty of Applied Technologies </item>
+			<item type="str"> Faculty of Education </item>
+			<item type="str"> Faculty of Health and Development Community </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Management and Administration </item>
+			<item type="str"> Faculty of Protestant Theology</item>
+		</faculties>
+		<postal_code type="str">Avenue Karibu N°02, Quartier Himbi 1, Commune de Goma</postal_code>
+		<telephone type="str"> +243 990 903 157</telephone>
+		<description type="str">Established in 1991,  Université Libre des Pays des Grands Lacs (Free University of the Great Lakes Countries) is a non-profit private higher-education institution located in the urban setting of the metropolis of Goma (population range of 1,000,000-5,000,000 inhabitants), North Kivu.  This institution also has branch campuses in the following locations: Bukavu, Butembo. Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Libre des Pays des Grands Lacs (ULPGL) is a small (uniRank enrollment range: 3,000-3,999 students) coeducational Congolese higher education institution. Université Libre des Pays des Grands Lacs (ULPGL) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees, master degrees, doctorate degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 29 years old Congolese higher-education institution has a selective admission policy based on entrance examinations and students' past academic record and grades.  The admission rate range is 60-70% making this Congolese higher education organization a somewhat selective institution. International applicants are eligible to apply for enrollment.  ULPGL also provides several academic and non-academic facilities and services to students including a library,  housing,  sports facilities,  financial aids and/or scholarships,  study abroad and exchange programs,  online courses and distance learning opportunities,  as well as administrative services.</description>
+		<name type="str">Free University of the Great Lakes Countries</name>
+		<acronym type="str">ULPGL</acronym>
+		<founded type="str">1991</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">13</rank>
+		<french_name type="str">Université de Mbuji Mayi</french_name>
+		<location type="str">Mbuji Mayi</location>
+		<faculties type="null"/>
+		<postal_code type="str">Avenue de l'Université; Boîte Postale 225</postal_code>
+		<telephone type="str"> +243 (88) 5 48 90</telephone>
+		<description type="str">Founded in 1990,  Université de Mbuji Mayi (University of Mbuji-Mayi) is a non-profit public higher-education institution located in the urban setting of the metropolis of Mbuji Mayi (population range of 1,000,000-5,000,000 inhabitants), Kasai-Oriental.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Mbuji Mayi  is a very small (uniRank enrollment range: 500-999 students) coeducational Congolese higher education institution. Université de Mbuji Mayi offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor degrees (i.e. certificates, diplomas, associate or foundation), bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 30 years old Congolese higher-education institution has a selective admission policy based on entrance examinations. International students are welcome to apply for enrollment.  Université de Mbuji Mayi also provides several academic and non-academic facilities and services to students including a library,  sports facilities,  as well as administrative services.</description>
+		<name type="str">University of Mbuji-Mayi</name>
+		<acronym type="str"/>
+		<founded type="str">1990</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">14</rank>
+		<french_name type="str">Université Catholique du Graben</french_name>
+		<location type="str">Butembo</location>
+		<faculties type="list">
+			<item type="str">Faculty of Agronomy </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Faculty of Human Medicine </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Social Sciences </item>
+			<item type="str"> Faculty of Veterinary Medicine</item>
+		</faculties>
+		<postal_code type="str">Avenue Lubero n. 4; Boîte Postale 29</postal_code>
+		<telephone type="str"> +243 (81) 305 2753</telephone>
+		<description type="str">Established in 1989,  Université Catholique du Graben (Catholic University of Graben) is a  private higher-education institution located in the small city of Butembo (population range of 50,000-249,999 inhabitants), North Kivu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Catholique du Graben (UCG) is a very small (uniRank enrollment range: 500-999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Catholic religion. Université Catholique du Graben (UCG) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UCG also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Catholic University of Graben</name>
+		<acronym type="str">UCG</acronym>
+		<founded type="str">1989</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">15</rank>
+		<french_name type="str">Université Shalom de Bunia</french_name>
+		<location type="str">Bunia</location>
+		<faculties type="list">
+			<item type="str">Faculty of Administration and Management </item>
+			<item type="str"> Faculty of Medicine </item>
+			<item type="str"> Faculty of Evangelical Theology </item>
+			<item type="str"> Faculty of Sciences </item>
+			<item type="str"> Faculty of Agronomic Sciences </item>
+			<item type="str"> Faculty of Development Sciences</item>
+		</faculties>
+		<postal_code type="str">Boîte Postale 304</postal_code>
+		<telephone type="str"> +243 9707 47510</telephone>
+		<description type="str">Founded in 1961,  Université Shalom de Bunia (Shalom University of Bunia) is a non-profit private higher-education institution located in the urban setting of the medium city of Bunia (population range of 250,000-499,999 inhabitants), Ituri.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Shalom de Bunia (USB) is a very small (uniRank enrollment range: 500-999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Evangelical religion. Université Shalom de Bunia (USB) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees, master degrees, doctorate degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 59 years old Congolese higher-education institution has a selective admission policy based on entrance examinations and students' past academic record and grades.  The admission rate range is 90-100% making this Congolese higher education organization a least selective institution. International students are welcome to apply for enrollment.  USB also provides several academic and non-academic facilities and services to students including a library,  housing,  sports facilities,  financial aids and/or scholarships,  as well as administrative services.</description>
+		<name type="str">Shalom University of Bunia</name>
+		<acronym type="str">USB</acronym>
+		<founded type="str">1961</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">16</rank>
+		<french_name type="str">Université Kongo</french_name>
+		<location type="str">Mbanza-Ngungu ...</location>
+		<faculties type="list">
+			<item type="str">Faculty of Business and Economics </item>
+			<item type="str"> Faculty of Engineering </item>
+			<item type="str"> Faculty of Law</item>
+		</faculties>
+		<postal_code type="str">Avenue Kolo n° 23, Bâtiment Kitala</postal_code>
+		<telephone type="str"> +243 81 519 02 83</telephone>
+		<description type="str">Founded in 1992,  Université Kongo (Kongo University) is a  private higher-education institution located in the small city of Mbanza-Ngungu (population range of 50,000-249,999 inhabitants), Kongo Central.  This institution also has a branch campus in Kisantu. Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Kongo (UK) is a coeducational Congolese higher education institution. Université Kongo (UK) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UK also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Kongo University</name>
+		<acronym type="str">UK</acronym>
+		<founded type="str">1992</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">17</rank>
+		<french_name type="str">Université de Goma</french_name>
+		<location type="str">Goma</location>
+		<faculties type="list">
+			<item type="str">Medical School </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Sciences </item>
+			<item type="str"> Faculty of Economics and Management </item>
+			<item type="str"> Faculty of Agronomic Sciences </item>
+			<item type="str"> Faculty of Information and Communication Sciences </item>
+			<item type="str"> Faculty of Psychology and Educational Sciences </item>
+			<item type="str"> Faculty of Social, Administrative and Political Sciences</item>
+		</faculties>
+		<postal_code type="str">PO Box 03</postal_code>
+		<telephone type="str"> +243 (80) 8495463</telephone>
+		<description type="str">Founded in 1993,  Université de Goma (University of Goma) is a non-profit public higher-education institution located in the urban setting of the metropolis of Goma (population range of 1,000,000-5,000,000 inhabitants), North Kivu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Goma (UNIGOM) is a small (uniRank enrollment range: 4,000-4,999 students) coeducational Congolese higher education institution. Université de Goma (UNIGOM) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 27 years old Congolese higher-education institution has a selective admission policy based on entrance examinations.  The admission rate range is 50-60% making this Congolese higher education organization a averagely selective institution.  UNIGOM also provides several academic and non-academic facilities and services to students including a library,  sports facilities,  as well as administrative services.</description>
+		<name type="str">University of Goma</name>
+		<acronym type="str">UNIGOM</acronym>
+		<founded type="str">1993</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">18</rank>
+		<french_name type="str">Université Libre de Kinshasa</french_name>
+		<location type="str">Kinshasa</location>
+		<faculties type="null"/>
+		<postal_code type="str"/>
+		<telephone type="str"> +243 </telephone>
+		<description type="str">Established in 1988,  Université Libre de Kinshasa (Free University of Kinshasa) is a  higher-education institution located in the large metropolis of Kinshasa (population range of over 5,000,000 inhabitants).   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Libre de Kinshasa (ULK) is a coeducational Congolese higher education institution. Université Libre de Kinshasa (ULK) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  ULK also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Free University of Kinshasa</name>
+		<acronym type="str">ULK</acronym>
+		<founded type="str">1988</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">19</rank>
+		<french_name type="str">Université Notre Dame du Kasayi</french_name>
+		<location type="str">Kananga ...</location>
+		<faculties type="list">
+			<item type="str">Faculty of Agronomy </item>
+			<item type="str"> Faculty of Arts </item>
+			<item type="str"> Faculty of Computer Science </item>
+			<item type="str"> Faculty of Humanities </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Medicine </item>
+			<item type="str"> Faculty of Pharmacy </item>
+			<item type="str"> Science </item>
+			<item type="str"> Faculty of Theology</item>
+		</faculties>
+		<postal_code type="str">Site de kambote, Commune de Lukonga</postal_code>
+		<telephone type="str"> +243 (99) 991 7412</telephone>
+		<description type="str">Founded in 1996,  Université Notre Dame du Kasayi (Notre Dame University of Kasayi) is a non-profit public higher-education institution located in the urban setting of the metropolis of Kananga (population range of 1,000,000-5,000,000 inhabitants), Kasai-Occidental.  This institution also has branch campuses in the following locations: Kabinda, Tshumbe. Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Notre Dame du Kasayi (U.KA.) is a very small (uniRank enrollment range: 1,000-1,999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Catholic religion. Université Notre Dame du Kasayi (U.KA.) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor degrees (i.e. certificates, diplomas, associate or foundation), bachelor degrees, master degrees, doctorate degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 24 years old Congolese higher-education institution has a selective admission policy based on students' past academic record and grades.  The admission rate range is 40-50% making this Congolese higher education organization a averagely selective institution.  U.KA. also provides several academic and non-academic facilities and services to students including a library,  sports facilities,  study abroad and exchange programs,  as well as administrative services.</description>
+		<name type="str">Notre Dame University of Kasayi</name>
+		<acronym type="str">U.KA.</acronym>
+		<founded type="str">1996</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">2</rank>
+		<french_name type="str">Université de Lubumbashi</french_name>
+		<location type="str">Lubumbashi</location>
+		<faculties type="list">
+			<item type="str">Faculty of Agronomy </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Higher Institute of Medical Techniques </item>
+			<item type="str"> Higher School of Commerce </item>
+			<item type="str"> Higher School of Engineering </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Letters </item>
+			<item type="str"> Faculty of Medicine </item>
+			<item type="str"> Polytechnic </item>
+			<item type="str"> Faculty of Psychology and Educational Science</item>
+		</faculties>
+		<postal_code type="str">Boîte Postale 1825</postal_code>
+		<telephone type="str"> +243 (99) 719 7767</telephone>
+		<description type="str">Established in 1955,  Université de Lubumbashi (University of Lubumbashi) is a non-profit public higher-education institution located in the metropolis of Lubumbashi (population range of 1,000,000-5,000,000 inhabitants), Haut-Katanga.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Lubumbashi (UNILU) is a large (uniRank enrollment range: 10,000-14,999 students) coeducational Congolese higher education institution. Université de Lubumbashi (UNILU) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 65 years old Congolese higher-education institution has a selective admission policy based on entrance examinations.  UNILU also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">University of Lubumbashi</name>
+		<acronym type="str">UNILU</acronym>
+		<founded type="str">1955</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">20</rank>
+		<french_name type="str">Université de Kamina</french_name>
+		<location type="str">Kamina</location>
+		<faculties type="list">
+			<item type="str">Faculty of Medicine </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Political and Administrative Sciences </item>
+			<item type="str"> Faculty of Letters </item>
+			<item type="str"> Faculty of Agronomy </item>
+			<item type="str"> Faculty of Public Health </item>
+			<item type="str"> Faculty of Psychology and Educational Sciences </item>
+			<item type="str"> School of Public Health </item>
+			<item type="str"> Institute of Art and Crafts</item>
+		</faculties>
+		<postal_code type="str">11 Av. Monseigneur Malunga, Centre Urbain</postal_code>
+		<telephone type="str"> +243 970-839-394</telephone>
+		<description type="str">Founded in 1955,  Université de Kamina (University of Kamina) is a non-profit public higher-education institution located in the medium city of Kamina (population range of 250,000-499,999 inhabitants), Haut-Lomami.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Kamina (UNIKAM) is a small (uniRank enrollment range: 5,000-5,999 students) coeducational Congolese higher education institution. Université de Kamina (UNIKAM) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UNIKAM also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">University of Kamina</name>
+		<acronym type="str">UNIKAM</acronym>
+		<founded type="str">1955</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">21</rank>
+		<french_name type="str">Université de Kikwit</french_name>
+		<location type="str">Kikwit</location>
+		<faculties type="null"/>
+		<postal_code type="str">Avenue de l'Université N° 4</postal_code>
+		<telephone type="str"> +243 816 169 853</telephone>
+		<description type="str">Established in 1992,  Université de Kikwit (University of Kikwit) is a non-profit public higher-education institution located in the medium city of Kikwit (population range of 250,000-499,999 inhabitants), Kwilu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Kikwit (UNIKIK) is a coeducational Congolese higher education institution. Université de Kikwit (UNIKIK) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UNIKIK also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">University of Kikwit</name>
+		<acronym type="str">UNIKIK</acronym>
+		<founded type="str">1992</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">22</rank>
+		<french_name type="str">Université Officielle de Ruwenzori</french_name>
+		<location type="str">Butembo</location>
+		<faculties type="null"/>
+		<postal_code type="str"/>
+		<telephone type="str"> +243 </telephone>
+		<description type="str"> Université Officielle de Ruwenzori (Official University of Ruwenzori) is a non-profit public higher-education institution located in the small city of Butembo (population range of 50,000-249,999 inhabitants), North Kivu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Officielle de Ruwenzori (UOR) is a coeducational Congolese higher education institution. Université Officielle de Ruwenzori (UOR) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UOR also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Official University of Ruwenzori</name>
+		<acronym type="str">UOR</acronym>
+		<founded type="str"/>
+	</item>
+	<item type="dict">
+		<rank type="str">23</rank>
+		<french_name type="str">Université Méthodiste au Katanga</french_name>
+		<location type="str">Mulungwishi ...</location>
+		<faculties type="null"/>
+		<postal_code type="str">Route Likasi-Kolwezi</postal_code>
+		<telephone type="str"> +243 </telephone>
+		<description type="str">Founded in 1951,  Université Méthodiste au Katanga (Katanga Methodist University) is a  private higher-education institution located in the large town of Mulungwishi (population range of 10,000-49,999 inhabitants), Haut-Katanga.  This institution also has a branch campus in Kamina. Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Méthodiste au Katanga (UMK) is a coeducational Congolese higher education institution formally affiliated with the Christian-Methodist religion. Université Méthodiste au Katanga (UMK) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UMK also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Katanga Methodist University</name>
+		<acronym type="str">UMK</acronym>
+		<founded type="str">1951</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">24</rank>
+		<french_name type="str">Université Chrétienne Cardinal Malula</french_name>
+		<location type="str">Kasa-Vubu</location>
+		<faculties type="null"/>
+		<postal_code type="str">Avenue Saio n. 2317 Bis; Boîte Postale 10883 KIN 1</postal_code>
+		<telephone type="str"> +243 (81) 722 5551</telephone>
+		<description type="str">Founded in 1984,  Université Chrétienne Cardinal Malula (Cardinal Malula University) is a  higher-education institution located in the small city of Kasa-Vubu (population range of 50,000-249,999 inhabitants), Kinshasa.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Chrétienne Cardinal Malula (UCCM) is a coeducational Congolese higher education institution. Université Chrétienne Cardinal Malula (UCCM) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UCCM also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Cardinal Malula University</name>
+		<acronym type="str">UCCM</acronym>
+		<founded type="str">1984</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">25</rank>
+		<french_name type="str">Université des Sciences et Technologies de Lodja</french_name>
+		<location type="str">Lodja</location>
+		<faculties type="list">
+			<item type="str">Medical School </item>
+			<item type="str"> Faculty of Technology </item>
+			<item type="str"> Faculty of Public Health </item>
+			<item type="str"> Faculty of Law, Criminal Sciences and Territorial Administration</item>
+		</faculties>
+		<postal_code type="str"/>
+		<telephone type="str"> +243 </telephone>
+		<description type="str"> Université des Sciences et Technologies de Lodja (University of Science and Technology of Lodja) is a non-profit public higher-education institution located in the small city of Lodja (population range of 50,000-249,999 inhabitants), Sankuru.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université des Sciences et Technologies de Lodja (UST-LODJA) is a coeducational Congolese higher education institution. Université des Sciences et Technologies de Lodja (UST-LODJA) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UST-LODJA also provides several academic and non-academic facilities and services to students including  as well as administrative services.</description>
+		<name type="str">University of Science and Technology of Lodja</name>
+		<acronym type="str">UST-LODJA</acronym>
+		<founded type="str"/>
+	</item>
+	<item type="dict">
+		<rank type="str">26</rank>
+		<french_name type="str">Université de Bunia</french_name>
+		<location type="str">Bunia</location>
+		<faculties type="null"/>
+		<postal_code type="str"/>
+		<telephone type="str"> +243 975 197 204</telephone>
+		<description type="str"> Université de Bunia (University of Bunia) is a non-profit public higher-education institution located in the medium city of Bunia (population range of 250,000-499,999 inhabitants), Ituri.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Bunia (UNIBU) is a coeducational Congolese higher education institution. Université de Bunia (UNIBU) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UNIBU also provides several academic and non-academic facilities and services to students including  as well as administrative services.</description>
+		<name type="str">University of Bunia</name>
+		<acronym type="str">UNIBU</acronym>
+		<founded type="str"/>
+	</item>
+	<item type="dict">
+		<rank type="str">3</rank>
+		<french_name type="str">Université Protestante du Congo</french_name>
+		<location type="str">Kinshasa</location>
+		<faculties type="list">
+			<item type="str">Faculty of Business/Economics </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Medicine </item>
+			<item type="str"> Faculty of Theology</item>
+		</faculties>
+		<postal_code type="str">Boîte Postale 4745</postal_code>
+		<telephone type="str"> +243 (88) 46122</telephone>
+		<description type="str">Founded in 1959,  Université Protestante du Congo (Protestant University of Congo) is a  private higher-education institution located in the large metropolis of Kinshasa (population range of over 5,000,000 inhabitants).   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Protestante du Congo (UPC) is a medium-sized (uniRank enrollment range: 7,000-7,999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Protestant religion. Université Protestante du Congo (UPC) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UPC also provides several academic and non-academic facilities and services to students including a library,  sports facilities,  as well as administrative services.</description>
+		<name type="str">Protestant University of Congo</name>
+		<acronym type="str">UPC</acronym>
+		<founded type="str">1959</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">4</rank>
+		<french_name type="str">Université de Kindu</french_name>
+		<location type="str">Kindu</location>
+		<faculties type="null"/>
+		<postal_code type="str">Site universitaire de LWAMA</postal_code>
+		<telephone type="str"> +243 (81) 418 4281</telephone>
+		<description type="str">Founded in 2005,  Université de Kindu (University of Kindu) is a non-profit public higher-education institution located in the small city of Kindu (population range of 50,000-249,999 inhabitants), Maniema.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université de Kindu (UNIKI) is a coeducational Congolese higher education institution. Université de Kindu (UNIKI) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UNIKI also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">University of Kindu</name>
+		<acronym type="str">UNIKI</acronym>
+		<founded type="str">2005</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">5</rank>
+		<french_name type="str">Université Protestante de Lubumbashi</french_name>
+		<location type="str">Lubumbashi</location>
+		<faculties type="list">
+			<item type="str">Faculty of Computer Science </item>
+			<item type="str"> Faculty of Theology </item>
+			<item type="str"> Faculty of Information and Communication Sciences </item>
+			<item type="str"> Faculty of Economy and Management Science </item>
+			<item type="str"> Faculty of Letter and Human Science </item>
+			<item type="str"> Faculty of Law</item>
+		</faculties>
+		<postal_code type="str">Avenue du 30 Juin</postal_code>
+		<telephone type="str"> +243 (97) 230 2443</telephone>
+		<description type="str">Established in 2002,  Université Protestante de Lubumbashi (Protestant University of Lubumbashi) is a non-profit private higher-education institution located in the urban setting of the metropolis of Lubumbashi (population range of 1,000,000-5,000,000 inhabitants), Haut-Katanga.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Protestante de Lubumbashi (UPL) is a very small (uniRank enrollment range: 1,000-1,999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Protestant religion. Université Protestante de Lubumbashi (UPL) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 18 years old Congolese higher-education institution has a selective admission policy based on entrance examinations and students' past academic record and grades.  The admission rate range is 50-60% making this Congolese higher education organization a averagely selective institution. International applicants are eligible to apply for enrollment.  UPL also provides several academic and non-academic facilities and services to students including  sports facilities,  financial aids and/or scholarships,  as well as administrative services.</description>
+		<name type="str">Protestant University of Lubumbashi</name>
+		<acronym type="str">UPL</acronym>
+		<founded type="str">2002</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">6</rank>
+		<french_name type="str">Université Catholique du Congo</french_name>
+		<location type="str">Kinshasa</location>
+		<faculties type="null"/>
+		<postal_code type="str">Avenue de l'Université n. 2; Boîte Postale 1534</postal_code>
+		<telephone type="str"> +243 (81) 700 7985</telephone>
+		<description type="str">Founded in 1957,  Université Catholique du Congo (Catholic University of Congo) is a  private higher-education institution located in the large metropolis of Kinshasa (population range of over 5,000,000 inhabitants).   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Catholique du Congo (UCC) is a coeducational Congolese higher education institution formally affiliated with the Christian-Catholic religion. Université Catholique du Congo (UCC) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UCC also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Catholic University of Congo</name>
+		<acronym type="str">UCC</acronym>
+		<founded type="str">1957</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">7</rank>
+		<french_name type="str">Université Officielle de Bukavu</french_name>
+		<location type="str">Bukavu</location>
+		<faculties type="list">
+			<item type="str">Faculty of Medicine and Pharmacy </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Applied Sciences and Sciences </item>
+			<item type="str"> Faculty of Social, Political and Administrative Sciences </item>
+			<item type="str"> Faculty of Economics and Management </item>
+			<item type="str"> Faculty of Arts and Humanities</item>
+		</faculties>
+		<postal_code type="str"/>
+		<telephone type="str"> +243 </telephone>
+		<description type="str">Established in 2010,  Université Officielle de Bukavu (Official University of Bukavu) is a non-profit public higher-education institution located in the large city of Bukavu (population range of 500,000-1,000,000 inhabitants), South Kivu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Officielle de Bukavu (UOB) is a coeducational Congolese higher education institution. Université Officielle de Bukavu (UOB) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.  UOB also provides several academic and non-academic facilities and services to students including a library,  as well as administrative services.</description>
+		<name type="str">Official University of Bukavu</name>
+		<acronym type="str">UOB</acronym>
+		<founded type="str">2010</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">8</rank>
+		<french_name type="str">Université Catholique de Bukavu</french_name>
+		<location type="str">Bukavu</location>
+		<faculties type="list">
+			<item type="str">Faculty of Architecture and Urbanism </item>
+			<item type="str"> Faculty of Agriculture </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Faculty of Law </item>
+			<item type="str"> Faculty of Medicine </item>
+			<item type="str"> Faculty of Sciences </item>
+			<item type="str"> Faculty of Social Sciences</item>
+		</faculties>
+		<postal_code type="str">Bugabo 02, Avenue de la Mission, Commune de Kadutu</postal_code>
+		<telephone type="str"> +243 854 893 440</telephone>
+		<description type="str">Established in 1989,  Université Catholique de Bukavu (Catholic University of Bukavu) is a non-profit private higher-education institution located in the urban setting of the medium city of Bukavu (population range of 250,000-499,999 inhabitants), South Kivu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Catholique de Bukavu (UCB) is a small (uniRank enrollment range: 3,000-3,999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Catholic religion. Université Catholique de Bukavu (UCB) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor degrees (i.e. certificates, diplomas, associate or foundation), bachelor degrees, master degrees, doctorate degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 31 years old Congolese higher-education institution has a selective admission policy based on entrance examinations.  The admission rate range is 30-40% making this Congolese higher education organization a very selective institution. International applicants are eligible to apply for enrollment.  UCB also provides several academic and non-academic facilities and services to students including a library,  housing,  sports facilities,  financial aids and/or scholarships,  study abroad and exchange programs,  as well as administrative services.</description>
+		<name type="str">Catholic University of Bukavu</name>
+		<acronym type="str">UCB</acronym>
+		<founded type="str">1989</founded>
+	</item>
+	<item type="dict">
+		<rank type="str">9</rank>
+		<french_name type="str">Université Evangélique en Afrique</french_name>
+		<location type="str">Bukavu</location>
+		<faculties type="list">
+			<item type="str">Faculty of Agriculture and Environment Sciences </item>
+			<item type="str"> Faculty of Medicine and Health Care </item>
+			<item type="str"> Faculty of Social Sciences </item>
+			<item type="str"> Faculty of Economics </item>
+			<item type="str"> Faculty of Theology</item>
+		</faculties>
+		<postal_code type="str">10 Mushununu, Panzi</postal_code>
+		<telephone type="str"> +243 (99) 308 4623</telephone>
+		<description type="str">Founded in 1991,  Université Evangélique en Afrique (Evangelical University in Africa) is a non-profit public private partnership higher-education institution located in the urban setting of the large city of Bukavu (population range of 500,000-1,000,000 inhabitants), South Kivu.   Officially recognized by the Ministère de l'Enseignement Supérieur et Universitaire, République Démocratique du Congo (Ministry of Higher and University Education of the Democratic Republic of the Congo), Université Evangélique en Afrique (UEA) is a small (uniRank enrollment range: 3,000-3,999 students) coeducational Congolese higher education institution formally affiliated with the Christian-Protestant religion. Université Evangélique en Afrique (UEA) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees, master degrees, doctorate degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 29 years old Congolese higher-education institution has a selective admission policy based on entrance examinations and students' past academic record and grades.  The admission rate range is 70-80% making this Congolese higher education organization a somewhat selective institution. International students are welcome to apply for enrollment.  UEA also provides several academic and non-academic facilities and services to students including a library,  housing,  sports facilities,  financial aids and/or scholarships,  study abroad and exchange programs,  as well as administrative services.</description>
+		<name type="str">Evangelical University in Africa</name>
+		<acronym type="str">UEA</acronym>
+		<founded type="str">1991</founded>
+	</item>
+</root>
