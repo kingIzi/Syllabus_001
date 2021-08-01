@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<root>
+	<faculties type="list">
+		<item type="str"> Faculty of Agriculture </item>
+		<item type="str"> Faculty of Applied Sciences and Sciences </item>
+		<item type="str"> Faculty of Arts and Humanities</item>
+		<item type="str"> Faculty of Economics </item>
+		<item type="str"> Faculty of Economics and Management </item>
+		<item type="str"> Faculty of Economy and Management Science </item>
+		<item type="str"> Faculty of Information and Communication Sciences </item>
+		<item type="str"> Faculty of Law</item>
+		<item type="str"> Faculty of Law </item>
+		<item type="str"> Faculty of Letter and Human Science </item>
+		<item type="str"> Faculty of Letters </item>
+		<item type="str"> Faculty of Medicine </item>
+		<item type="str"> Faculty of Medicine and Dentistry </item>
+		<item type="str"> Faculty of Pharmacy </item>
+		<item type="str"> Faculty of Psychology and Educational Science</item>
+		<item type="str"> Faculty of Science</item>
+		<item type="str"> Faculty of Sciences </item>
+		<item type="str"> Faculty of Social Sciences</item>
+		<item type="str"> Faculty of Social, Political and Administrative Sciences </item>
+		<item type="str"> Faculty of Theology</item>
+		<item type="str"> Faculty of Theology </item>
+		<item type="str"> Higher Institute of Medical Techniques </item>
+		<item type="str"> Higher School of Commerce </item>
+		<item type="str"> Higher School of Engineering </item>
+		<item type="str"> Polytechnic </item>
+		<item type="str">Faculty of Agronomy </item>
+		<item type="str">Faculty of Architecture and Urbanism </item>
+		<item type="str">Faculty of Business/Economics </item>
+		<item type="str">Faculty of Computer Science </item>
+		<item type="str">Faculty of Medicine and Pharmacy </item>
+	</faculties>
+</root>
