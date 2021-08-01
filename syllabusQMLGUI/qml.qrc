@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>forms/imports/Icon.js</file>
+        <file>forms/imports/registration.js</file>
+        <file>forms/res/google.png</file>
+        <file>forms/res/insta.png</file>
+        <file>forms/qml/GuiConstants.qml</file>
+        <file>forms/qml/SyTextField.qml</file>
+        <file>forms/qml/main.qml</file>
+        <file>forms/fonts/fontello.ttf</file>
+        <file>forms/qml/SyPasswordField.qml</file>
+        <file>forms/res/logo-facebook-png6.png</file>
+        <file>forms/qml/SyText.qml</file>
+        <file>forms/qml/SyButton.qml</file>
+        <file>forms/qml/SyInnerBackground.qml</file>
+        <file>forms/qml/register/LoginForm.qml</file>
+        <file>forms/qml/register/Register.qml</file>
+        <file>forms/qml/register/RegisterForm.qml</file>
+        <file>forms/qml/register/SignupOptions.qml</file>
+        <file>forms/qml/register/StudiesSelection.qml</file>
+        <file>forms/qml/models/AvailableUniversityModel.qml</file>
+    </qresource>
+</RCC>
