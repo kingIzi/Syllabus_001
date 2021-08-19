@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>forms/qml/main.qml</file>
+        <file>forms/fonts/fontello.ttf</file>
+        <file>forms/images/google.png</file>
+        <file>forms/images/insta.png</file>
+        <file>forms/images/logo-facebook-png6.png</file>
+        <file>forms/imports/syConstants.js</file>
+        <file>forms/qml/CoursesSelection.qml</file>
+        <file>forms/qml/HomePage.qml</file>
+        <file>forms/qml/LoginForm.qml</file>
+        <file>forms/qml/RegisterForm.qml</file>
+        <file>forms/qml/SignupOptions.qml</file>
+        <file>forms/qml/StudiesSelection.qml</file>
+        <file>forms/qml/components/GuiConstants.qml</file>
+        <file>forms/qml/components/SyBusy.qml</file>
+        <file>forms/qml/components/SyButton.qml</file>
+        <file>forms/qml/components/SyComboBox.qml</file>
+        <file>forms/qml/components/SyIcon.qml</file>
+        <file>forms/qml/components/SyInnerBackground.qml</file>
+        <file>forms/qml/components/SyText.qml</file>
+        <file>forms/qml/components/SyTextField.qml</file>
+        <file>forms/imports/registration.js</file>
+        <file>forms/qml/components/SyNavBar.qml</file>
+        <file>forms/images/e-logo.png</file>
+        <file>forms/images/icon-heart.png</file>
+        <file>forms/images/th-large.png</file>
+        <file>forms/qml/components/SyTopNav.qml</file>
+        <file>forms/images/icon-home.png</file>
+        <file>forms/qml/HomeNav.qml</file>
+        <file>forms/imports/syHomeStackJS.js</file>
+    </qresource>
+</RCC>
