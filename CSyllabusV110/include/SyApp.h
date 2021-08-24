@@ -13,6 +13,8 @@ private:
 private:
     void initialize();
     void setContextProperties();
+    void registerTypes();
+    void loadQmlObject();
 public:
     SyApp(int argc,char* argv[]);
     int execute();

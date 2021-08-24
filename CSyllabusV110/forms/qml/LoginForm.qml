@@ -1,7 +1,7 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 import QtQuick.Layouts 2.15
-import Qt5Compat.GraphicalEffects
+//import Qt5Compat.GraphicalEffects
 import QtQuick.Controls.Material 2.15
 import "components"
 import "qrc:/forms/imports/registration.js" as Register

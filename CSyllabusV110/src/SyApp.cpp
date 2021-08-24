@@ -1,6 +1,7 @@
 #include "../include/SyApp.h"
 #include <QFontDatabase>
 #include <QQmlContext>
+#include <QtQml>
 
 
 SyApp::SyApp(int argc, char *argv[]) :
@@ -8,12 +9,29 @@ SyApp::SyApp(int argc, char *argv[]) :
 {
     QGuiApplication::setApplicationName("Syllabus");
     QGuiApplication::setOrganizationName("IziProject");
-    if (QFontDatabase::addApplicationFont("://forms/fonts/fontello.ttf") == -1)
-        qWarning() << "Failed to load fonts";
+//    if (QFontDatabase::addApplicationFont("://forms/fonts/fontello.ttf") == -1)
+//        qWarning() << "Failed to load fonts";
     this->initialize();
 }
 
 void SyApp::initialize()
+{
+    this->registerTypes();
+    this->setContextProperties();
+    this->loadQmlObject();
+}
+
+void SyApp::setContextProperties()
+{
+    this->engine.rootContext()->setContextProperty("user",&user);
+}
+
+void SyApp::registerTypes()
+{
+    qmlRegisterSingletonType( QUrl("qrc:/forms/qml/CSyllabusV110/Constants.qml"), "CSyllabusV110", 1, 0, "Constants" );
+}
+
+void SyApp::loadQmlObject()
 {
     const QUrl url(this->qmlEntry);
     QObject::connect(&this->engine, &QQmlApplicationEngine::objectCreated,
@@ -21,13 +39,7 @@ void SyApp::initialize()
         if (!obj && url == objUrl)
             QCoreApplication::exit(-1);
     }, Qt::QueuedConnection);
-    this->setContextProperties();
     this->engine.load(url);
-}
-
-void SyApp::setContextProperties()
-{
-    this->engine.rootContext()->setContextProperty("user",&user);
 }
 
 int SyApp::execute()

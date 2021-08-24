@@ -1,31 +1,29 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 import QtQuick.Controls.Material 2.15
-import "components"
+import CSyllabusV110 1.0
+import "./components/syControls"
 
 ApplicationWindow {
     id: root
-    GuiConstants { id: constants }
-    property bool isReady: true
-    width: constants.width
-    height: constants.height
+    property bool showNavBar: false
     visible: true
     title: qsTr("Syllabus")
-    minimumWidth: constants.minimumWidth
-    minimumHeight: constants.minimumHeight
-    maximumHeight: constants.maximumHeight
-    maximumWidth: constants.maximumWidth
-    Material.theme: Material.Dark
-
+    width: Constants.width
+    height: Constants.height
+    minimumWidth: Constants.width
+    minimumHeight: 580
+    Material.theme: Material.Light
+    footer: SyNavBar{
+        id: navBar
+        visible: root.showNavBar
+    }
     Loader{
         id: appLoader
         anchors.fill: parent
         active: visible
         visible: true
-        sourceComponent: StackView{
-            id: syStack
-            initialItem: LoginForm{}
-        }
+        sourceComponent: LoginPage{}
     }
 }
 
