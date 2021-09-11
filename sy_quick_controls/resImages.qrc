@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>forms/images/apple_white.png</file>
+        <file>forms/images/art-math.png</file>
+        <file>forms/images/e-logo.png</file>
+        <file>forms/images/google.png</file>
+        <file>forms/images/icon-heart.png</file>
+        <file>forms/images/icon-home.png</file>
+        <file>forms/images/poster2_bg.png</file>
+        <file>forms/images/camera.png</file>
+        <file>forms/images/avatar.png</file>
+        <file>forms/images/icons/plus.svg</file>
+        <file>forms/images/icons/dots-vertical.svg</file>
+        <file>forms/images/icons/format-color-highlight.svg</file>
+        <file>forms/images/icons/calendar.svg</file>
+        <file>forms/images/icons/event-available.svg</file>
+        <file>forms/images/icons/check-circle.svg</file>
+    </qresource>
+</RCC>
