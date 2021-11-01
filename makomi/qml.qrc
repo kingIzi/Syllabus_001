@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>forms/qml/main.qml</file>
+        <file>forms/qml/Constants.qml</file>
+        <file>forms/qml/DirectoryFontFolder.qml</file>
+        <file>forms/qml/pages/LoginPage.qml</file>
+        <file>forms/qml/pages/HomePage.qml</file>
+        <file>forms/qml/NavBar.qml</file>
+        <file>forms/qml/models/SideNavListModel.qml</file>
+        <file>forms/qml/SideNavDrawer.qml</file>
+        <file>forms/qml/components/ResumeReading.qml</file>
+        <file>forms/qml/components/SubjectModules.qml</file>
+        <file>forms/qml/components/BookHorizontalList.qml</file>
+        <file>forms/qml/components/Syllabus.qml</file>
+        <file>forms/qml/pages/SyllabusDetailsPage.qml</file>
+        <file>forms/qml/components/SyllabusGrid.qml</file>
+        <file>forms/qml/components/CopyRightLabel.qml</file>
+        <file>forms/qml/pages/ReadingPage.qml</file>
+        <file>forms/qml/components/SyllabusFilter.qml</file>
+        <file>forms/qml/components/DivisorLine.qml</file>
+        <file>forms/qml/models/YearStudyModel.qml</file>
+        <file>forms/qml/components/ActionButton.qml</file>
+        <file>forms/qml/pages/SubjectsPage.qml</file>
+        <file>forms/qml/components/RoundImage.qml</file>
+        <file>forms/qml/pages/AccountPage.qml</file>
+        <file>forms/qml/Navigation.qml</file>
+        <file>forms/qml/pages/SearchResultsPage.qml</file>
+        <file>forms/qml/components/FavoriteDrawer.qml</file>
+        <file>forms/qml/pages/FavoritesPage.qml</file>
+        <file>forms/qml/components/FavoriteSyllabus.qml</file>
+        <file>forms/qml/components/QuotePanel.qml</file>
+        <file>forms/qml/pages/QuotesPage.qml</file>
+        <file>forms/qml/models/QuotesModel.qml</file>
+        <file>forms/qml/components/QuotesFlipableRepeater.qml</file>
+        <file>forms/qml/pages/EditAccountPage.qml</file>
+        <file>forms/qml/pages/ChangePasswordPage.qml</file>
+        <file>forms/qml/pages/CoursesSelectionPage.qml</file>
+        <file>forms/qml/controls/SearchBox.qml</file>
+        <file>forms/qml/controls/SearchFilter.qml</file>
+        <file>forms/qml/controls/SearchTextField.qml</file>
+    </qresource>
+</RCC>

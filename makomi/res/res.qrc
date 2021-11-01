@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/filter_alt_black_24dp.svg</file>
+        <file>icons/search_black_24dp.svg</file>
+        <file>icons/menu_black_24dp.svg</file>
+        <file>icons/arrow_back_black_24dp.svg</file>
+        <file>images/dummyLogo.png</file>
+        <file>icons/account_circle_black_24dp.svg</file>
+        <file>icons/local_library_black_24dp.svg</file>
+        <file>icons/psychology_black_24dp.svg</file>
+        <file>icons/quiz_black_24dp.svg</file>
+        <file>icons/home_black_24dp.svg</file>
+        <file>images/syllabusCover-converted-1.png</file>
+        <file>images/scienceBook.jpg</file>
+        <file>icons/bookmark_black_24dp.svg</file>
+        <file>icons/navigate_next_black_24dp.svg</file>
+        <file>icons/star_black_24dp.svg</file>
+        <file>icons/copyright_black_24dp.svg</file>
+        <file>icons/open_in_new_black_24dp.svg</file>
+        <file>icons/favorite_black_24dp.svg</file>
+        <file>icons/add_black_24dp.svg</file>
+        <file>icons/check_circle_black_24dp.svg</file>
+        <file>icons/edit_black_24dp.svg</file>
+        <file>icons/format_quote_black_48dp.svg</file>
+        <file>icons/arrow_left_black_24dp.svg</file>
+        <file>icons/arrow_right_black_24dp.svg</file>
+        <file>images/baluba.jpg</file>
+        <file>images/ngala.jpg</file>
+        <file>icons/photo_camera_black_24dp.svg</file>
+        <file>images/Zebra.jpg</file>
+        <file>icons/lock_black_24dp.svg</file>
+        <file>icons/menu_book_black_24dp.svg</file>
+        <file>icons/paid_black_24dp.svg</file>
+        <file>icons/person_black_24dp.svg</file>
+    </qresource>
+</RCC>

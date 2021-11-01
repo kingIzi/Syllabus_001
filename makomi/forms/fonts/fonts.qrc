@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ZenOldMincho-Black.ttf</file>
+        <file>ZenOldMincho-Bold.ttf</file>
+        <file>ZenOldMincho-Regular.ttf</file>
+    </qresource>
+</RCC>
